@@ -40,11 +40,12 @@ This project simulates the deployment of a Windows-based IT infrastructure for a
 
 ---
 
-## 📄 Change Log
+## 📄 Result: Change Log
 
 All steps, changes, fixes, and configurations have been carefully documented in this PDF:
 
-📄 [View Full Change Log (PDF)](./documents/Change_Log.pdf)
+📄 [View Change Log (PDF)](./documents/annotated-Change_Log.docx.pdf)
+
 
 ---
 
